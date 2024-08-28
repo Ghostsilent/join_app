@@ -1,6 +1,6 @@
 let users = [];
 const REG_URL =
-  "https://.firebasedatabase.app/regUsers";
+  "https://join-neu-default-rtdb.europe-west1.firebasedatabase.app/regUsers";
 
 /**
  * Adding a user to the Database incl. popup, timing, form reset etc.
